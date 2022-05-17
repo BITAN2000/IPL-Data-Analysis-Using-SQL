@@ -5,7 +5,8 @@ The analysis through SQL draws important insights such as the amount of boundari
 
 **	DATA EXPLANATION :-**
 The data has been taken from IPL dataset. This dataset contains two sub datasets namely matches and deliveries. The deliveries dataset has 17 columns and 193468 rows where the columns are id, inning, over, ball, batsman, non-striker, bowler, batsman_runs, extra_runs, total_runs, is_wicket, dismissal_kind, player_dismissed, extras_type, fielder, bowling_team and batting_team. The matches dataset has 17 columns and 816 rows where the columns are id, city, date, player_of_match, venue, neutral_venue, team1, team2, toss_winner, toss_decision, winner, result, result_margin, eliminator, method, umpire1 and umpire2.
- 
+
+
 **	ANALYSIS OF IPL DATA :-**
 This SQL report helps to understand which player is performing better than other players alongwith their contribution towards their team. Also, it helps to know on which location number of boundaries was higher. This report tries to provide all the necessary details about different players and teams so that in upcoming tournaments, these teams and their players can perform better. It also tells us about the top players based on the scores they achieved.
 
